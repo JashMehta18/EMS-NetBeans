@@ -1,7 +1,7 @@
 # Mehta_Jash_002728706
-Application Engineering Development - Assignments
+Application Engineering Development
 
-<h1 align="center">Assignment 1</h1>
+<h1 align="center">Projects</h1>
 <h4 align="center">Java Swing application for Human Resource Officer to manage all the 
 employees in the company.</h4>
 <h6>Jash Mehta - 002728706</h6>
